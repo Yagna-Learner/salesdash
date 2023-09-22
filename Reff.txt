@@ -1,0 +1,5 @@
+References
+•	Pandas: https://pandas.pydata.org/
+•	Plotly Express: https://plotly.com/python/plotly-express/
+•	Streamlit: https://streamlit.io/
+•	Emoji Cheat Sheet: https://www.webfx.com/tools/emoji-cheat-sheet/
